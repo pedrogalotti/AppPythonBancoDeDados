@@ -1,2 +1,8 @@
-# AppPythonBancoDeDados
-App em python com banco de dados MYSQL
+# APP EM PYTHON COM BANCO DE DADOS MYSQL
+
+<!-- 1- NÃO SOU BOM COM DESIGNER AINDA!
+     2- SE QUISER EDITAR AS PÁGINAS DO APP (BAIXER QT DESIGNER)
+     3- ESPERO QUE GOSTE! CASO TENHA DUVIDAS https://discord.gg/7pUZUV2Cd5
+     4- PEDRO DEV | 2022
+     5- FUTURE: FULLSTACK
+ -->
